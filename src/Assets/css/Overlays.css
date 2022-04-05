@@ -1,0 +1,32 @@
+.card-overlays {
+    width: 100% !important;
+    height: 80% !important;
+}
+
+.overlays-desk{
+    color: #3734A9; 
+    font-weight: 700;
+}
+
+.title-overlays {
+   max-width: 50% !important;
+   font-size: 30px;
+ 
+}
+
+.overlays-desk2 {
+   color: #505887; 
+   max-width: 65% ;
+   font-size: 12px;
+}
+
+.icon-overlays {
+    width: 25px;
+    height: 25px;
+}
+
+.text-over {
+    color: #64607D;
+    margin-left: 10px;
+    font-size: 14px;
+}

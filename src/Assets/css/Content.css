@@ -1,0 +1,29 @@
+.content-body {
+   margin-top: 100px !important;
+}
+
+.content-title {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.desk-content {
+    color: #64607D !important;
+   text-align: center !important;
+}
+
+.content-free {
+    background-color: #3734A9 !important;
+    width: 30% !important; 
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    margin-left: 35% ;
+    color: #FFFFFF;
+    font-size: 10px !important;
+}
+
+
+
+
+

@@ -1,0 +1,41 @@
+.alerts-body {
+    margin-top: 50px !important;
+    background-color:  whitesmoke;
+    height:  50vh !important;
+  
+}
+
+.alert-box {
+    box-sizing: content-box;  
+    width: 74% !important;
+    height: 90px !important;  
+    border: 1px solid #DFDFDF;
+    border-radius: 13px;
+    background-color: #FFFFFF ;  
+}
+
+.alerts-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.text-alerts {
+    max-width: 30% !important;
+    font-size: 10px;
+    margin-left: 8px;
+    color: #64607D;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.frame-foto {
+    width: 13% !important;
+    height: 15% !important;
+    box-sizing: content-box !important;
+    background-color: #E9ECF2; 
+    padding: 3px;
+    border-radius: 3px;
+   
+}

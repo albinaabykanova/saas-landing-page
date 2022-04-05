@@ -1,0 +1,91 @@
+.about-body {
+    background-image: url("../img/Vector155.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #FFFFFF;
+    background-size: contain;
+}
+
+.about-foto {
+    padding-top: 25px !important;
+    align-items: center;
+    display: flex;
+}
+
+.title-about {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: bold;  
+}
+.h-500{
+    min-height: 400px;
+}
+
+.desk-about {
+    color: #000000 !important;
+}
+
+.free {
+   background-color: #5D5FEF!important; 
+   border-radius: 20px!important;
+   color: #FFFFFF;
+   font-size: 10px !important;
+   height: 29% !important;
+   border-radius: 5px !important;
+
+}
+
+.email {
+    width: 40%;  
+}
+
+.password {
+    width: 40%; 
+    margin-top: 20px;  
+    font-weight: 100;
+}
+
+.desk-about2 {
+    color: #5D5FEF;
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.get {
+    background-color: #FF7F5C !important; 
+    width: 40%; 
+    margin-top: 20px;
+}
+
+.title-about2 {
+    color: #000000;
+    font-size: 40px;
+    font-weight: 700;
+    max-width: 70%;
+}
+
+.about3-foto {
+    width: 5%;
+    height: 5%;
+    margin-left: 30px;
+}
+
+.desk-about4 {
+   color: #64607D;
+   max-width: 60%;
+}
+
+.free1 {
+    background-color: #5D5FEF!important; 
+    width: 18%;
+    color: #FFFFFF;
+    font-size: 10px !important;
+    height: 30% !important;
+    border-radius: 20px !important;
+}
+
+.text-about {
+    color: #5D5FEF;
+    margin-left: 10px;
+    font-size: 13px;
+}

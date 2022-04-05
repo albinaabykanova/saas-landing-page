@@ -1,0 +1,18 @@
+
+
+.tooltip-title  {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 50px !important;
+}
+.mt-20{
+    margin-top: 20px!important;
+}
+
+.tooltip-foto {
+    width: 60%;
+    justify-content: center !important;
+    align-items: center !important;
+}
+

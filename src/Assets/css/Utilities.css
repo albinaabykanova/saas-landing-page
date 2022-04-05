@@ -1,0 +1,52 @@
+.title-utilis  {
+    color: #000000;
+}
+
+.desk-util {
+    color: #64607D;
+    text-align: center;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.utiliti-1 {
+    box-sizing: content-box;  
+    width: 215px;
+    height: 150px;
+    padding: 30px;  
+    border: 2px solid #DFDFDF;
+    border-radius: 13px;
+    background-color: #FFFFFF ;
+}
+
+.big-utils{
+   font-size: 18px; 
+   font-weight: bold;
+   max-width: 100% !important;
+}
+
+.text-utils {
+   color: #64607D; 
+   font-size: 13px;
+   max-width: 100% !important;
+}
+
+.read {
+    color: #01966B;
+}
+
+.more-util {
+    background-color: #4F46BA !important;
+    width: 13% !important;
+    padding: 10px !important;
+    border-radius: 5px;
+    font-size: 10px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 20px;
+    color: #FFFFFF;
+} 
+
+.cont {
+    margin-top: 25px !important;
+}

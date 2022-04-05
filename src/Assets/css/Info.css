@@ -1,0 +1,48 @@
+.info-body {
+  background-color: 	#FFFAFA;
+}
+
+.info-desk {
+   color: #3734A9; 
+   font-weight: bold;
+}
+
+.info-title {
+  color: #000000;
+  max-width: 50%;
+  font-size: 33px;
+  font-weight: bold;
+}
+
+.info-foto {
+    width: 90%;
+    height: 410px;
+}
+
+.info1-title {
+   font-size: 15px;
+   max-width: 50%;
+   font-weight: bold;
+   margin-top: 10px;
+}
+
+.desk-info2 {
+  color: #64607D; 
+}
+
+.desk-info {
+  color: #64607D;
+  font-size: 12px;
+  max-width: 80% !important;
+}
+
+.desk-info1{
+   font-size: 20px;
+   font-weight: bold;
+   margin-top: 5px;
+}
+
+.alerts-key {
+  margin-top: 50px;
+}
+

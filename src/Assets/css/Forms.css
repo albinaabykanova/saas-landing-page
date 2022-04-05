@@ -1,0 +1,23 @@
+.form-box {
+
+}
+
+.forms-img {
+  width: 80%;
+  height: 200px;
+}
+
+.forms-desk {
+   color: #64607D; 
+   font-weight: bold;
+}
+
+.forms-title {
+  font-weight: bold;
+}
+
+.text-forms {
+    color: #64607D; 
+    font-size: 14px;
+    max-width: 75% !important;
+}
