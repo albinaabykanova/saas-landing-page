@@ -7,9 +7,6 @@ Built with React.Js, Boostrap and Css.
 Used component structer and router.
 
 
-## Authors
-
-- [@albinaabykanova](https://github.com/albinaabykanova)
 
 
 ## Screenshots
@@ -40,6 +37,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+## Authors
+
+- [@albinaabykanova](https://github.com/albinaabykanova)
+
+
 ## 🚀 About Me
 I'm a Juniour Frontend Developer.
 
