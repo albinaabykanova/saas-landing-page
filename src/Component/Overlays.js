@@ -9,7 +9,7 @@ export default class Overlays extends Component {
    return (
      <Row className="stack-body d-flex  justify-content-center align-items-center">
         <Col md={6}>
-            <Image src={require('../Assets/img/Cards.png')} className="card-overlays" /> 
+            <Image src={require('../Assets/img/overlays-img/card.png')} className="card-overlays" /> 
         </Col>
 
         <Col md={6}> 
@@ -22,15 +22,15 @@ export default class Overlays extends Component {
            </p>
            <hr/>
            <div className="d-flex">
-             <Image src={require('../Assets/img/icon1.png')} className="icon-overlays" /> 
+             <Image src={require('../Assets/img/overlays-img/done.png')} className="icon-overlays" /> 
              <p className="text-over">Get Overview at a glance</p>
            </div>
            <div className="d-flex">
-             <Image src={require('../Assets/img/icon1.png')} className="icon-overlays" /> 
+             <Image src={require('../Assets/img/overlays-img/done.png')} className="icon-overlays" /> 
              <p className="text-over">Deoposit funds easily, securlity</p>
            </div>
            <div className="d-flex">
-             <Image src={require('../Assets/img/icon1.png')} className="icon-overlays" /> 
+             <Image src={require('../Assets/img/overlays-img/done.png')} className="icon-overlays" /> 
              <p className="text-over">Get Live Support</p>
            </div>
         </Col> 

@@ -1,0 +1,31 @@
+.page-body{
+    margin-top: 70px !important;
+    max-height: 90vh !important;
+}
+
+.page-title {
+  font-weight: bold;
+}
+
+.page-text{
+  padding-bottom: 40px;
+  color: #757095;
+  max-width: 70%;
+  font-size: 13px;
+}
+
+.page-text1 {
+   color: #757095;
+   max-width: 94%;
+   font-size: 13px; 
+}
+
+.page-email {
+    font-size: 12px !important;
+}
+
+.page-sub {
+    font-size: 12px !important;   
+    background-color: #3734A9 !important;
+    color: #FFFFFF !important;
+}

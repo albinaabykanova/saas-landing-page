@@ -16,20 +16,20 @@ export default class Alerts extends Component {
         </Col>
         <Col md={3}>
           <div className=" d-flex  justify-content-center align-items-center"> 
-             <Image src={require('../Assets/img/Frame.png')} className="frame-foto" /> 
+             <Image src={require('../Assets/img/alerts-img/Frame.png')} className="frame-foto" /> 
                <p className="text-alerts">Removed Enjoyed Explain </p> 
           </div>
         </Col>
         <Col md={3}>
           <div className=" d-flex  justify-content-center align-items-center">
-              <Image src={require('../Assets/img/Frame1.png')} className="frame-foto" /> 
+              <Image src={require('../Assets/img/alerts-img/Frame1.png')} className="frame-foto" /> 
           
                <p className="text-alerts">Supported Allowance</p> 
           </div>
         </Col>
         <Col md={3}>
           <div className=" d-flex  justify-content-center align-items-center"> 
-             <Image src={require('../Assets/img/Frame2.png')} className="frame-foto" /> 
+             <Image src={require('../Assets/img/alerts-img/Frame2.png')} className="frame-foto" /> 
                <p className="text-alerts">Stable work & Lightweight</p> 
           </div>
         </Col>

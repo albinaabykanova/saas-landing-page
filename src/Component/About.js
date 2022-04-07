@@ -21,9 +21,6 @@ export default class About  extends Component {
        unpleasing. Not thoughts all exercise blessing.
        Indulgence way everything.`,
        free1:"Our Process",
-
-
-
     }
   }
 
@@ -76,10 +73,7 @@ export default class About  extends Component {
             <Button className="get">Get Started</Button>
             </Col>
          </Row>
-
        </Container>
-
-
     </div>
     );
    }

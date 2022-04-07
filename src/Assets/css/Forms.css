@@ -1,23 +1,58 @@
-.form-box {
-
+.forms-body {
+   margin-top: 30px !important;
 }
-
 .forms-img {
-  width: 80%;
-  height: 200px;
+  width: 85%;
+  height: 250px;
 }
 
 .forms-desk {
    color: #64607D; 
    font-weight: bold;
+   margin-top: 20px;
 }
 
 .forms-title {
   font-weight: bold;
+  max-width: 85%;
 }
 
 .text-forms {
     color: #64607D; 
     font-size: 14px;
     max-width: 75% !important;
+}
+
+.forms-desk1 {
+  color: #64607D; 
+  margin-left: 15px;
+  justify-content: space-between !important;
+}
+
+.forms-title1 {
+   font-weight: bold;
+   margin-left: 15px;
+   max-width: 65% !important;
+}
+
+.forms1-img {
+   width: 20% !important;
+   height: 60px;
+}
+
+.four {
+  display: grid;
+  margin-top: 10px;
+}
+
+.category {
+  margin-left: 20px;
+}
+
+.blog {
+  justify-content: space-between !important;
+  padding-left: 8%;
+  padding-right: 8%;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

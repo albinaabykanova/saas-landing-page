@@ -16,19 +16,19 @@ export default class Tooltip extends Component {
           </Row>
           <Row className="mt-20 d-flex justify-content-center align-items-center">
               <Col md={2}>
-                  <Image src={require('../Assets/img/Group.png')} className="tooltip-foto" /> 
+                  <Image src={require('../Assets/img/tooltip-img/brand1.png')} className="tooltip-foto" /> 
               </Col>
               <Col md={2}>
-                  <Image src={require('../Assets/img/Group (1).png')} className="tooltip-foto" /> 
+                  <Image src={require('../Assets/img/tooltip-img/brand2.png')} className="tooltip-foto" /> 
               </Col>
               <Col md={2}>
-                  <Image src={require('../Assets/img/Group (2).png')} className="tooltip-foto" /> 
+                  <Image src={require('../Assets/img/tooltip-img/brand3.png')} className="tooltip-foto" /> 
               </Col>
               <Col md={2}>
-                  <Image src={require('../Assets/img/Group (3).png')} className="tooltip-foto" /> 
+                  <Image src={require('../Assets/img/tooltip-img/brand4.png')} className="tooltip-foto" /> 
               </Col>
               <Col md={2}>
-                  <Image src={require('../Assets/img/Group (4).png')} className="tooltip-foto" /> 
+                  <Image src={require('../Assets/img/tooltip-img/brand5.png')} className="tooltip-foto" /> 
               </Col>
           </Row>
         </Container>

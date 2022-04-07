@@ -15,6 +15,8 @@ import {
       import Alerts from "../Component/Alerts";
       import Info from "../Component/Info";
       import Forms from "../Component/Forms";
+      import Event from "../Component/Event";
+      import Page from "../Component/Page";
 
  export default function App() {
   return (
@@ -30,6 +32,8 @@ import {
         <Route path="/Alerts" element={<Alerts />} />
         <Route path="/Info" element={<Info />} />
         <Route path="/Forms" element={<Forms />} />
+        <Route path="/Event" element={<Event />} />
+        <Route path="/Page" element={<Page />} />
     </Routes>
     </Router>
   )

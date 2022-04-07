@@ -3,19 +3,19 @@
 }
 
 .img-stack {
-    background-image: url("../img/1.png");
+    background-image: url("../img/stack-img/1.png");
     background-repeat: no-repeat;
     background-position: center;
   }
 
   .img-stack-2 {
-    background-image: url("../img/2.png");
+    background-image: url("../img/stack-img/2.png");
     background-repeat: no-repeat;
     background-position: center;
   }
   
 .img-stack-3 {
-  background-image: url("../img/3.png");
+  background-image: url("../img/stack-img/3.png");
   background-repeat: no-repeat;
   background-position: center;
 }

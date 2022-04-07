@@ -8,6 +8,8 @@ import Utilities from "../Component/Utilities";
 import Alerts from "../Component/Alerts";
 import Info from "../Component/Info";
 import Forms from "../Component/Forms";
+import Event from "../Component/Event";
+import Page from "../Component/Page";
 
 
 class Home extends Component {
@@ -23,6 +25,8 @@ class Home extends Component {
               <Alerts />
               <Info />
               <Forms />
+              <Event />
+              <Page />
      </div>
     );
   }

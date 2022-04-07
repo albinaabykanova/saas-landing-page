@@ -1,0 +1,46 @@
+.event-body {
+    background-color: #3734A9;
+    margin-top: 50px !important;
+    padding-top: 50px;
+}
+
+.event-box {
+  justify-content: center !important;
+  align-items: center !important;
+  margin-left: 15%;
+}
+
+.event-desk {
+   color: #FFFFFF;
+}
+
+.event-title {
+    color: #FFFFFF;
+    max-width: 70%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text-event {
+    color: #FFFFFF;
+    font-size: 13px;
+    max-width: 70%;
+}
+
+.event-adress {
+    width: 50% !important;
+    background-color: #BBB5E0!important;
+
+}
+
+.event-password {
+    width: 50% !important;
+    margin-top: 14px;
+    background-color: #BBB5E0!important;
+}
+
+.event {
+    background-color: #FF7F5C !important;
+    width: 50% !important;
+    margin-top: 14px;
+}

@@ -10,7 +10,7 @@ export default class Stack extends Component {
      <Row className="stack-body d-flex  justify-content-center align-items-center">
         <Col md={3}> 
             <Row className="img-stack">
-            <Image src={require('../Assets/img/Group 199.png')} className="lamb" /> 
+            <Image src={require('../Assets/img/stack-img/lamp.png')} className="lamb" /> 
               <h5 className="title-stack">
                 Led Ask Possible Mistress
               </h5>
@@ -22,7 +22,7 @@ export default class Stack extends Component {
         </Col> 
         <Col md={3}> 
             <Row className="img-stack-2">
-            <Image src={require('../Assets/img/Group 199 (1).png')} className="lamb" /> 
+            <Image src={require('../Assets/img/stack-img/icon2.png')} className="lamb" /> 
               <h5 className="title-stack">
                 Elegance Eat Likewise
               </h5>
@@ -34,7 +34,7 @@ export default class Stack extends Component {
         </Col> 
         <Col md={3}> 
             <Row className="img-stack-3">
-            <Image src={require('../Assets/img/Group 199 (2).png')} className="lamb" /> 
+            <Image src={require('../Assets/img/stack-img/icon.png')} className="lamb" /> 
               <h5 className="title-stack">
                  Message Oram Nothing
               </h5>
